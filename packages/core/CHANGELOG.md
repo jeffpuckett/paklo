@@ -1,5 +1,13 @@
 # @paklo/core
 
+## 0.24.1
+
+### Patch Changes
+
+- Updated docker container manifest for Bump the dependabot-core-images group across 1 directory with 34 updates ([#2780](https://github.com/mburumaxwell/paklo/pull/2780))
+
+- Updated docker container manifest for Bump the dependabot-core-images group across 1 directory with 34 updates ([#2791](https://github.com/mburumaxwell/paklo/pull/2791))
+
 ## 0.24.0
 
 ### Minor Changes
